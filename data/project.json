@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "luzgonz-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232996364?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "luzgonz-glitch",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-21T02:11:59.760Z",
-    "updated_at": "2025-10-21T02:11:59.760Z"
-  }
+    "updated_at": "2025-10-21T02:11:59.760Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "64ac7a31-3fe5-4625-83da-0355e78682da": {
+      "content": [],
+      "created_at": "2025-10-21T02:11:59.800Z",
+      "created_by": "luzgonz-glitch",
+      "title": "Digital Libraries - Latino USA Arts & Culture",
+      "updated_at": "2025-10-21T02:11:59.800Z",
+      "updated_by": "luzgonz-glitch",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "64ac7a31-3fe5-4625-83da-0355e78682da"
+  ]
 }
